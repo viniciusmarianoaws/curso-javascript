@@ -1,5 +1,7 @@
 Javascript Basíco
+
 1.Estrutura padrão de um programa JavaScript
+
 2.Formatação e identação
 3.Comentários
 4.Tipos de dados
